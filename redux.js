@@ -36,3 +36,4 @@ store.dispatch({ type: 'INCREMENT' }); // { counter: 1 }
 store.dispatch({ type: 'INCREMENT' }); // { counter: 2 }
 store.dispatch({ type: 'DECREMENT' }); // { counter: 1 }
 store.dispatch({type:'addition',payload:{number:7}});
+
